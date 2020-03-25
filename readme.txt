@@ -1,3 +1,10 @@
+- This program can successfully simulates the management of library.
+
+- This uses file handling which allows storing of data even if the console is closed by mistake.
+
+- It provides large storage capacity so that lots of users can easily input their data making it
+easier for the library to function.
+
 This Management System can be used by various colleges to run their Library. After the book lending
 is done a file will be generated that will be of the name of the registration number user.
 In the Code first the user is asked whether he/she is a new user or not. If he/she is a New User all the
