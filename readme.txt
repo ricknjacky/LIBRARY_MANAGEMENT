@@ -1,4 +1,4 @@
-- This program can successfully simulates the management of library.
+- This program can successfully simulate the management of library.
 
 - This uses file handling which allows storing of data even if the console is closed by mistake.
 
